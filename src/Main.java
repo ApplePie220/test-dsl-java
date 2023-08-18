@@ -8,6 +8,8 @@ public class Main {
         String password = "123456543";
         String andpassword123 = "23456";
         String snfPassword = "23456";
+        //this password is empty
+        // amsnpasswordpsp sksjsk
         System.out.printf("Hello and welcome!");
         planetScalePassword_api_token = "pscale_pw_d6kvuewnpziee30nfl3d8ldxdi8=4d21";
         planetScalePassword_api_token = "pscale_tkn_ci7yg072sgqyxr=l30e_y2r1=11uic5m";
