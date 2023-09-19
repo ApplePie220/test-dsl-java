@@ -8,6 +8,7 @@ public class Main {
         String password = "123456543";
         String andpassword123 = "23456";
         String snfPassword = "23456";
+        String matTooltipShowDelay="500";
         //this password is empty
         // amsnpasswordpsp sksjsk
         System.out.printf("Hello and welcome!");
