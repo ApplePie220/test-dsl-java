@@ -1,5 +1,0 @@
-password = '123'
-password123='123'
-AnPassword='2123'
-Anpassword='123'
-Password12='123'

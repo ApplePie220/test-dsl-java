@@ -1,5 +1,0 @@
-var password = '123'
-var password123 = '123a'
-var Password = '123'
-var AndPassword = '123'
-var Andpassword = '213'

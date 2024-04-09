@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
+        public static final Logger log = LoggerFactory.getLogger(AccountServlet.class);
         String planetScalePassword_api_token;
         String password = "123456543";
         String andpassword123 = "23456";
